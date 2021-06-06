@@ -1,0 +1,21 @@
+﻿Build started 06.06.2021 23:54:08.
+     1>Project "C:\Users\Wiciu\Desktop\Inzynierka\INZYNIERKA_V1\Real-Time-Fluid-Dynamics-for-Games-master\Symulacja_plynu\Symulacja_plynu\Symulacja_plynu.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\Pliki programów (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /IC:\Users\Wiciu\Desktop\Inzynierka\OPENGL_BIBLIOTEKI\freeglut\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt demo.c solver.c
+         solver.c
+         demo.c
+     1>c:\users\wiciu\desktop\inzynierka\inzynierka_v1\real-time-fluid-dynamics-for-games-master\symulacja_plynu\symulacja_plynu\demo.c(326): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\wiciu\desktop\inzynierka\inzynierka_v1\real-time-fluid-dynamics-for-games-master\symulacja_plynu\symulacja_plynu\demo.c(327): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\wiciu\desktop\inzynierka\inzynierka_v1\real-time-fluid-dynamics-for-games-master\symulacja_plynu\symulacja_plynu\demo.c(328): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\wiciu\desktop\inzynierka\inzynierka_v1\real-time-fluid-dynamics-for-games-master\symulacja_plynu\symulacja_plynu\demo.c(329): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\wiciu\desktop\inzynierka\inzynierka_v1\real-time-fluid-dynamics-for-games-master\symulacja_plynu\symulacja_plynu\demo.c(330): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         Generating Code...
+       Link:
+         E:\Pliki programów (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Wiciu\Desktop\Inzynierka\INZYNIERKA_V1\Real-Time-Fluid-Dynamics-for-Games-master\Symulacja_plynu\Debug\Symulacja_plynu.exe" /INCREMENTAL /NOLOGO freeglut.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Wiciu\Desktop\Inzynierka\INZYNIERKA_V1\Real-Time-Fluid-Dynamics-for-Games-master\Symulacja_plynu\Debug\Symulacja_plynu.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Wiciu\Desktop\Inzynierka\INZYNIERKA_V1\Real-Time-Fluid-Dynamics-for-Games-master\Symulacja_plynu\Debug\Symulacja_plynu.lib" /MACHINE:X86 Debug\demo.obj
+         Debug\solver.obj
+         Symulacja_plynu.vcxproj -> C:\Users\Wiciu\Desktop\Inzynierka\INZYNIERKA_V1\Real-Time-Fluid-Dynamics-for-Games-master\Symulacja_plynu\Debug\Symulacja_plynu.exe
+     1>Done Building Project "C:\Users\Wiciu\Desktop\Inzynierka\INZYNIERKA_V1\Real-Time-Fluid-Dynamics-for-Games-master\Symulacja_plynu\Symulacja_plynu\Symulacja_plynu.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.09
